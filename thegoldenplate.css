@@ -1,0 +1,177 @@
+.inner-conteiner{
+    background-image:url(img/IMG_9419.JPG);
+    height: 1050px;
+}
+
+.conteiner1{
+    display: flex;
+    justify-content: center;
+}
+
+.logo-img{
+    width: 200px;
+    padding-left: 70px;
+}
+
+.logo-text{
+    color: white;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+.conteiner2{
+    display: flex;
+    justify-content: center;
+}
+
+.p-conteiner{
+    display: block;
+    justify-content: center;
+    width: 1000px;
+}
+
+.p{
+    margin-left: 200px;
+    margin-right: 200px;
+    color: white;
+}
+
+.icons-conteiner{
+    display: flex;
+    justify-content: center;
+    gap: 105px;
+}
+
+.img-conteiner{
+    display: flex;
+    justify-content: center;
+    margin-top: 50px;
+}
+
+.imgicons{
+    width: 750px;
+}
+
+.text{
+    margin-top: 20px;
+    color: white;
+}
+
+.text-conteiner{
+    display: flex;
+    justify-content: center;
+}
+
+.conteiner4{
+    display: flex;
+    justify-content: center;
+    margin-top: 50px;
+}
+
+.conteiner5{
+    display: flex;
+    justify-content: center;
+    margin-top: 50px;
+}
+
+.b-conteiner{
+    width: 200px;
+    height: 50px;
+    background-color: white;
+    display: flex;
+    justify-content: center;
+}
+
+.b-conteiner:hover{
+    opacity: 0.7;
+    cursor: grab;
+}
+
+.img-conteiner:hover{
+    opacity: 0.5;
+    cursor: grab;
+}
+
+.conteiner4:hover{
+    opacity: 0.3;
+    cursor: grab;
+}
+
+.im-conteiner:hover{
+    opacity: 0.3;
+    cursor: grab;
+}
+
+.menu-conteiner{
+    margin-top: 50px; 
+}
+
+.menu{
+    display: flex;
+    justify-content: center;
+    gap: 5px;
+
+}
+
+.i-conteiner{
+    display: flex;
+    justify-content: center;
+    gap: 10px;
+    margin-bottom: 10px;
+}
+
+.i-conteiner img{
+    width: 490px;
+}
+
+.im-conteiner{
+    display: flex;
+    justify-content: center;
+    margin-top: 50px;
+}
+
+.imgicon{
+    width: 145px;
+}
+
+.ico-conteiner{
+    display: flex;
+    justify-content: center;
+    gap: 40px;
+
+}
+
+.text2{
+    margin-top: 20px;
+    color: rgb(93, 93, 93);
+}
+
+.inner{
+    height: 500px;
+}
+
+.conteiner7{
+    display: flex;
+    justify-content: center;
+}
+
+.conteiner8{
+    display: flex;
+    justify-content: center;
+    gap: 400px;
+}
+
+.div1 h3{
+    color: white;
+}
+
+.div2 h3{
+    color: white;
+}
+
+.div1 p{
+    color: white;
+}
+
+.div2 p{
+    color: white;
+}
